@@ -1,0 +1,7 @@
+console.log("bonjour depuis un fichier ")
+alert("bienvenue ")
+const prenom =prompt("donner prenom")
+console.log("prenom saisir",prenom)
+const inscri=confirm("voulez-vous inscrire ")
+console.log(inscri)
+alert("a bientot "+prenom+"!")
